@@ -25,6 +25,8 @@ For further information refer to the [architecture](https://opendatahub.io/docs/
 | WG  | [Model Serving Integration](https://github.com/opendatahub-io/opendatahub-community/tree/main/wg-serving-integration) | JooHo Lee<br>Ben Herta<br>Sean Pryor<br>Chad Roberts                  | Model serving integration framework to provide a unified way to utilize various serving engines    |              |
 | WG  | [Explainable AI](https://github.com/opendatahub-io/opendatahub-community/tree/main/wg-xai)                            | Rebecca Whitworth<br>Tommaso Teofili<br>Rui Vieira<br>Rob Geada       | Explainability framework for ODH developers                                                        |              |
 
+##
+---
 ## Important Links
 
 **Contribution Guidelines**:
