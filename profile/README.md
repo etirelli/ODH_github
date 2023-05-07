@@ -1,4 +1,4 @@
-### Welcome to Open Data Hub :wave:
+## Welcome to Open Data Hub :wave:
 
 Open Data Hub (ODH) is an open source project that provides open source AI tools for running large and distributed AI workloads on the OpenShift Container Platform. Currently, the Open Data Hub project provides open source tools for distributed AI and Machine Learning (ML) workflows, Jupyter Notebook development environment and monitoring. The Open Data Hub project roadmap offers a view on new tools and integration the project developers are planning to add.  
 
@@ -11,7 +11,21 @@ Included in the Open Data Hub core deployment are several open source components
 
 For further information refer to the [architecture](https://opendatahub.io/docs/architecture.html) and [release notes](https://opendatahub.io/docs/roadmap/release-notes.html).
 
-##
+### Special Interest Groups and Working Groups
+
+**Open Data Hub (ODH)** adopted an organization and governance model to foster transparent decision making and innovation. The project is organized into Special Interest Groups (SIG) and Working Groups (WG). The table below offers an overview of the current structure. For more information, read the [Governance](https://github.com/opendatahub-io/opendatahub-community/blob/main/governance.md) section, or the individual SIG/WG links:
+
+|     | Name                                                                                                                  | Chairs                                                                | Scope                                                                                              | Repositories |
+| --- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------ |
+| SIG | [ML Dev Experience](https://github.com/opendatahub-io/opendatahub-community/tree/main/sig-ml-developer-experience)    | Jay Koehler<br>Kyle Walker<br>Erwan Granger<br>Romeo Kienzler         | End-to-end experience for a data scientist, a data analyst or an application developer             | TODO         |
+| SIG | [ML Ops](https://github.com/opendatahub-io/opendatahub-community/tree/main/sig-ml-ops)                                | Prasanth Anbalagan<br>Anish Asthana<br>Nick Hill<br>Chad Roberts      | Services and APIs responsible for providing ML Ops capabilities to users of the Open Data Hub      |              |
+| SIG | [Platform](https://github.com/opendatahub-io/opendatahub-community/tree/main/sig-platform)                            | Taneem Ibrahim<br>Landon LaSmith<br>Vaishinavi Hire<br>Gabe Goodheart | ODH operator, odh-core components, ecosystem integration, authentication, and monitoring           |              |
+| WG  | [Distributed Workloads](https://github.com/opendatahub-io/opendatahub-community/tree/main/wg-distributed-workloads)   | Anish Asthana<br>Michael Clifford<br>Mustafa Eyceoz                   | Easy and user-friendly access to distributed workloads and workload orchestration on Open Data Hub | [distributed-workloads](https://github.com/opendatahub-io/distributed-workloads)             |
+| WG  | [On-prem](https://github.com/opendatahub-io/opendatahub-community/tree/main/wg-on-prem)                               | Landon LaSmith<br>JooHo Lee<br>Vaishnavi Hire                         | Guidance for on premises deployments of Open Data Hub                                              |              |
+| WG  | [Model Serving Integration](https://github.com/opendatahub-io/opendatahub-community/tree/main/wg-serving-integration) | JooHo Lee<br>Ben Herta<br>Sean Pryor<br>Chad Roberts                  | Model serving integration framework to provide a unified way to utilize various serving engines    |              |
+| WG  | [Explainable AI](https://github.com/opendatahub-io/opendatahub-community/tree/main/wg-xai)                            | Rebecca Whitworth<br>Tommaso Teofili<br>Rui Vieira<br>Rob Geada       | Explainability framework for ODH developers                                                        |              |
+
+## Important Links
 
 **Contribution Guidelines**:
 [https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md](https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md)
